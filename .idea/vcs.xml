@@ -5,5 +5,7 @@
     <mapping directory="$PROJECT_DIR$/abc" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/j1" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/j2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/java5" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/m6" vcs="Git" />
   </component>
 </project>
